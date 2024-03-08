@@ -18,6 +18,7 @@ public class Jantar {
 		p1.obterPessoaDepoisDeComer(c1);
 		p2.obterPessoaDepoisDeComer(c2);
 		
+		//Somente um teste
 		//System.out.println("Depois de comer:");
 		//System.out.println(p1.obterPessoaInicial());
 		//System.out.println(p2.obterPessoaInicial());
